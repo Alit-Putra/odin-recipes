@@ -1,0 +1,15 @@
+h1 {
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: darksalmon;
+}
+
+p,
+ul,
+ol {
+    background-color: lightsalmon;
+}
